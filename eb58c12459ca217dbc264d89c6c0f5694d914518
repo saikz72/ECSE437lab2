@@ -20,6 +20,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "1be10ae1_6ba5ef4c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020581
+      },
+      "writtenOn": "2022-10-03T16:46:13Z",
+      "side": 1,
+      "message": "Sir, please read my latest comment and make the necessary changes. ",
+      "revId": "eb58c12459ca217dbc264d89c6c0f5694d914518",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "5ad8cb15_0a6522b8",
         "filename": "main.doc",
         "patchSetId": 1
@@ -31,6 +48,30 @@
       "writtenOn": "2022-10-03T16:35:23Z",
       "side": 1,
       "message": "Looks good to me! Well done!",
+      "range": {
+        "startLine": 1,
+        "startChar": 4,
+        "endLine": 1,
+        "endChar": 8
+      },
+      "revId": "eb58c12459ca217dbc264d89c6c0f5694d914518",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0daf9b2e_87fd75f7",
+        "filename": "main.doc",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1020581
+      },
+      "writtenOn": "2022-10-03T16:46:13Z",
+      "side": 1,
+      "message": "Please change the file to \u0027README.md\u0027 instead of main.doc - and the line should read \u0027My first commit in GerritHub!\u0027 instead of \u0027new line\u0027",
+      "parentUuid": "5ad8cb15_0a6522b8",
       "range": {
         "startLine": 1,
         "startChar": 4,
